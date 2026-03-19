@@ -66,9 +66,9 @@ https://oauth.vk.com/authorize?client_id=2685278&scope=groups,stats,wall&redirec
 | Переменная | Описание | Пример |
 |---|---|---|
 | `VK_TOKEN` | OAuth-токен VK API | `vk1.a.XXXX...` |
-| `VK_WALL_POST` | Пост с опросом (ownerID_postID) | `-167291581_464` |
-| `VK_GROUP_ID` | ID группы (без минуса) | `167291581` |
-| `VK_TARGET_CITY` | Целевой город для гео-анализа | `киров` |
+| `VK_WALL_POST` | Пост с опросом (ownerID_postID) | `-123456789_123` |
+| `VK_GROUP_ID` | ID группы (без минуса) | `123456789` |
+| `VK_TARGET_CITY` | Целевой город для гео-анализа | `москва` |
 
 ## Методология скоринга
 
