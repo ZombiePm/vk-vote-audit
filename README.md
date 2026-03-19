@@ -26,7 +26,7 @@
 ## Установка и запуск
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ZombiePm/vk-vote-audit.git
 cd vk-vote-audit
 
 # 1. Настроить переменные
@@ -103,3 +103,13 @@ vk-vote-audit/
     ├── audit_data.json
     └── report.html
 ```
+
+## Поддержать проект
+
+Если инструмент оказался полезен:
+
+| Сеть | Адрес |
+|---|---|
+| BTC | `bc1qset463vqdydrgpxy4m5hvke0cqvtlqztqrqw2v` |
+| ETH | `0x743d66E349270355200b958FC1caC8427a9efe04` |
+| SOL | `BMvNKNK7zTRc6jQsdyUKFE6wFL6TJMKL1ZSRhW6pCpNJ` |
